@@ -1,0 +1,10 @@
+C:\Users\Nicho\Documents\TUGAS\KPL\KPL_praktikum\KPL_praktikum\bin\Debug\KPL_praktikum.exe.config
+C:\Users\Nicho\Documents\TUGAS\KPL\KPL_praktikum\KPL_praktikum\bin\Debug\KPL_praktikum.exe
+C:\Users\Nicho\Documents\TUGAS\KPL\KPL_praktikum\KPL_praktikum\bin\Debug\KPL_praktikum.pdb
+C:\Users\Nicho\Documents\TUGAS\KPL\KPL_praktikum\KPL_praktikum\obj\Debug\KPL_praktikum.csproj.AssemblyReference.cache
+C:\Users\Nicho\Documents\TUGAS\KPL\KPL_praktikum\KPL_praktikum\obj\Debug\KPL_praktikum.Form1.resources
+C:\Users\Nicho\Documents\TUGAS\KPL\KPL_praktikum\KPL_praktikum\obj\Debug\KPL_praktikum.Properties.Resources.resources
+C:\Users\Nicho\Documents\TUGAS\KPL\KPL_praktikum\KPL_praktikum\obj\Debug\KPL_praktikum.csproj.GenerateResource.cache
+C:\Users\Nicho\Documents\TUGAS\KPL\KPL_praktikum\KPL_praktikum\obj\Debug\KPL_praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Nicho\Documents\TUGAS\KPL\KPL_praktikum\KPL_praktikum\obj\Debug\KPL_praktikum.exe
+C:\Users\Nicho\Documents\TUGAS\KPL\KPL_praktikum\KPL_praktikum\obj\Debug\KPL_praktikum.pdb
